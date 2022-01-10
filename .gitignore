@@ -1,3 +1,16 @@
 *.zwc*
 .pc/
 docs/all.md
+*/.DS_Store
+README.md
+.DS_Store
+*/README.md
+*/*/README.md
+*.md
+highlighters/brackets/README.md
+highlighters/cursor/README.md
+highlighters/line/README.md
+highlighters/main/README.md
+highlighters/pattern/README.md
+highlighters/regexp/README.md
+highlighters/root/README.md
